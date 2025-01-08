@@ -1,0 +1,28 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.bracketSpacing": false,
+  "prettier.requireConfig": false,
+  "editor.renderWhitespace": "boundary",
+  "editor.guides.indentation": false,
+  "json.format.keepLines": true,
+  "javascript.format.semicolons": "insert",
+  "editor.wordWrap": "on",
+  "files.autoSave": "afterDelay",
+  "typescript.format.semicolons": "insert",
+  "json.schemas": [
+  ],
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+  },
+  /////////////////////////////////////
+  "editor.tabSize": 2,
+  "editor.defaultFoldingRangeProvider": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.vueIndentScriptAndStyle": false,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.quoteProps": "as-needed",
+}
